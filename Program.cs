@@ -1,0 +1,18 @@
+﻿Console.WriteLine("Tá de novo com essa pessoa");
+Console.WriteLine("Não 'to acreditando");
+Console.WriteLine("Vai fazer papel de trouxa outra vez");
+Console.WriteLine("'Cê não aprende mesmo");
+Console.WriteLine("Pra você isso é amor");
+Console.WriteLine("Mas pra ele isso não passa de um plano B");
+Console.WriteLine("Se não pegar ninguém da lista, liga pra você");
+Console.WriteLine("Te usa e joga fora");
+Console.WriteLine("Para de insistir, chega de se iludir");
+Console.WriteLine("O que 'cê 'tá passando, eu já passei e eu sobrevivi");
+Console.WriteLine("Se ele não te quer, supera");
+Console.WriteLine("Se ele não te quer, supera");
+Console.WriteLine("Ele 'tá fazendo de tapete o seu coração");
+Console.WriteLine("Promete pra mim que dessa vez você vai falar não");
+Console.WriteLine("De mulher pra mulher, supera");
+Console.WriteLine("De mulher pra mulher, supera");
+Console.WriteLine("Pra você isso é amor");
+Console.WriteLine("Mas pra ele isso não passa de um plano B");
